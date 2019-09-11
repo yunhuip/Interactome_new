@@ -1,0 +1,199 @@
+Histone type	uniprot_bp	bp name
+
+H1	o75164	Lysine-specific demethylase 4A
+H1	q13185	Chromobox protein homolog 3
+H1	q14974	Importin subunit beta-1
+H1	q9y468	Lethal(3)malignant brain tumor-like protein 1
+H2A		scFv
+H2A	c4qzq7	DNA-directed RNA polymerase subunit beta
+H2A	g0ryc2	RuvB-like helicase
+H2A	g0s590	Ies6
+H2A	o43791	Speckle-type POZ protein
+H2A	p0cg47	Polyubiquitin-B
+H2A	p17693	HLA class I histocompatibility antigen, alpha chain G
+H2A	p55201	Peregrin
+H2A	q03188	Centromere protein C
+H2A	q12888	TP53-binding protein 1
+H2A	q14676	Mediator of DNA damage checkpoint protein 1
+H2A	q15906	Vacuolar protein sorting-associated protein 72 homolog
+H2A	q5nvk7	Speckle-type POZ protein
+H2A	q6zw49	PAX-interacting protein 1
+H2A	q8ncn4	E3 ubiquitin-protein ligase RNF169
+H2A	q8nem0	Microcephalin
+H2A	q9btt0	Acidic leucine-rich nuclear phosphoprotein 32 family member E
+H2A	q9nxa8	NAD-dependent protein deacylase sirtuin-5, mitochondrial
+H2A	q9qr71	Protein LANA1
+H2A	q9uqr0	Sex comb on midleg-like protein 2
+H2A	q9vkm6	Vacuolar protein sorting-associated protein 72 homolog
+H2B		Ino80
+H2B		scFv
+H2B	c4qzq7	DNA-directed RNA polymerase subunit beta
+H2B	g0ryc2	RuvB-like helicase
+H2B	g0s590	Ies6
+H2B	p01903	HLA class II histocompatibility antigen, DR alpha chain
+H2B	p0cg47	Polyubiquitin-B
+H2B	p13760	HLA class II histocompatibility antigen, DRB1-4 beta chain
+H2B	q03188	Centromere protein C
+H2B	q12888	TP53-binding protein 1
+H2B	q15906	Vacuolar protein sorting-associated protein 72 homolog
+H2B	q96h22	Centromere protein N
+H2B	q9btt0	Acidic leucine-rich nuclear phosphoprotein 32 family member E
+H2B	q9nxa8	NAD-dependent protein deacylase sirtuin-5, mitochondrial
+H2B	q9qr71	Protein LANA1
+H3	b9ru15	Probable Histone-lysine N-methyltransferase ATXR5
+H3	c4qz45	Transcription elongation factor 1 homolog
+H3	c4r4y0	DNA-directed RNA polymerase subunit
+H3	g0ryc6#g0sdw4	null#null
+H3	g0s589	Actin related protein 5
+H3	g0s590	Ies6
+H3	g0s8h7	Polycomb Protein EED
+H3	g0s8h7	putative polycomb protein EED
+H3	g0s8h7	putative polycomb protein Eed
+H3	i1n521	ATXR5 PHD domain
+H3	o14646	Chromodomain-helicase-DNA-binding protein 1
+H3	o15054	Lysine-specific demethylase 6B
+H3	o15164	Transcription intermediary factor 1-alpha
+H3	o15392	Baculoviral IAP repeat-containing protein 5
+H3	o15550	Lysine-specific demethylase 6A
+H3	o41094	A612L protein
+H3	o43189	PHD finger protein 1
+H3	o60341	Lysine-specific histone demethylase 1A
+H3	o60885	Bromodomain-containing protein 4
+H3	o75164	Lysine-specific demethylase 4A
+H3	o94953	Lysine-specific demethylase 4B
+H3	o95619	YEATS domain-containing protein 4
+H3	p05205	Heterochromatin protein 1
+H3	p0aey0#q96h22	P0AEY0:#Maltose/maltodextrin-binding periplasmic protein#Q96H22:#Centromere protein N
+H3	p21784	V(D)J recombination-activating protein 2
+H3	p23497	Nuclear autoantigen Sp-100
+H3	p26358	DNA (cytosine-5)-methyltransferase 1
+H3	p29375	Lysine-specific demethylase 5A
+H3	p35189	Transcription initiation factor TFIID subunit 14
+H3	p36124	SET domain-containing protein 3
+H3	p42568	Protein AF-9
+H3	p46100	Transcriptional regulator ATRX
+H3	p49736	DNA replication licensing factor MCM2
+H3	p53930	Protein AF-9 homolog
+H3	p55197	Protein AF-10
+H3	p55201	Peregrin
+H3	p59997	Lysine-specific demethylase 2A
+H3	p61964	WD repeat-containing protein 5
+H3	p62979	Ubiquitin-40S ribosomal protein S27a
+H3	p63104	14-3-3 protein zeta/delta
+H3	p83916	Chromobox protein homolog 1
+H3	q03111	Protein ENL
+H3	q03164	Histone-lysine N-methyltransferase 2A
+H3	q03188	Centromere protein C
+H3	q12830	Nucleosome-remodeling factor subunit BPTF
+H3	q13185	Chromobox protein homolog 3
+H3	q14149	MORC family CW-type zinc finger protein 3
+H3	q14839	Chromodomain-helicase-DNA-binding protein 4
+H3	q15047	Histone-lysine N-methyltransferase SETDB1
+H3	q15059	Bromodomain-containing protein 3
+H3	q15910	Histone-lysine N-methyltransferase EZH2
+H3	q1hvj0	Major tegument protein
+H3	q2lae1	Histone-lysine N-methyltransferase ASHH2
+H3	q49a26	Putative oxidoreductase GLYR1
+H3	q504y3	Zinc finger CW-type PWWP domain protein 2
+H3	q56a73	Spindlin-4
+H3	q5t6s3	PHD finger protein 19
+H3	q5vwg9	Transcription initiation factor TFIID subunit 3
+H3	q6b0i6	Lysine-specific demethylase 4D
+H3	q6cit4	Histone-lysine N-methyltransferase, H3 lysine-4 specific
+H3	q6pl18	ATPase family AAA domain-containing protein 2
+H3	q7jxa8	Rhino
+H3	q7z4v5	Hepatoma-derived growth factor-related protein 2
+H3	q86uu0#q9brq0	Q86UU0:#B-cell CLL/lymphoma 9-like protein#Q9BRQ0:#Pygopus homolog 2
+H3	q86x55	Histone-arginine methyltransferase CARM1
+H3	q8ie47	NAD-dependent protein deacylase Sir2A
+H3	q8iyh5	ZZ-type zinc finger-containing protein 3
+H3	q8izd2	Inactive histone-lysine N-methyltransferase 2E
+H3	q8nb78	Lysine-specific histone demethylase 1B
+H3	q8ncd3	Holliday junction recognition protein
+H3	q8nez4	Histone-lysine N-methyltransferase 2C
+H3	q8r5c8	Zinc finger MYND domain-containing protein 11
+H3	q8tf76	Serine/threonine-protein kinase haspin
+H3	q8wts6	Histone-lysine N-methyltransferase SETD7
+H3	q8wyb5	Histone acetyltransferase KAT6B
+H3	q92466	DNA damage-binding protein 2
+H3	q92784	Zinc finger protein DPF3
+H3	q92793	CREB-binding protein
+H3	q92794	Histone acetyltransferase KAT6A
+H3	q92973	Transportin-1
+H3	q96bd5	PHD finger protein 21A
+H3	q96eq9	Histone-lysine N-methyltransferase PRDM9
+H3	q96h22	Centromere protein N
+H3	q96ha7	Tonsoku-like protein
+H3	q96kq7	Histone-lysine N-methyltransferase EHMT2
+H3	q96t88	E3 ubiquitin-protein ligase UHRF1
+H3	q99549	M-phase phosphoprotein 8
+H3	q9axt8	DNA (cytosine-5)-methyltransferase 1
+H3	q9btc0	Death-inducer obliterator 1
+H3	q9bv86	N-terminal Xaa-Pro-Lys N-methyltransferase 1
+H3	q9bvi0	PHD finger protein 20
+H3	q9byw2	Histone-lysine N-methyltransferase SETD2
+H3	q9bz95	Histone-lysine N-methyltransferase NSD3
+H3	q9esu6	Bromodomain-containing protein 4
+H3	q9fff5	PHD finger protein ALFIN-LIKE 1
+H3	q9h0m4	Zinc finger CW-type PWWP domain protein 1
+H3	q9ntg7	NAD-dependent protein deacetylase sirtuin-3, mitochondrial
+H3	q9nvp2	Histone chaperone ASF1B
+H3	q9nxa8	NAD-dependent protein deacylase sirtuin-5, mitochondrial
+H3	q9ubc3	DNA (cytosine-5)-methyltransferase 3B
+H3	q9uer7	Death domain-associated protein 6
+H3	q9uif9	Bromodomain adjacent to zinc finger domain protein 2A
+H3	q9ulg1	Chromatin-remodeling ATPase INO80
+H3	q9ulm3	YEATS domain-containing protein 2
+H3	q9unl4	Inhibitor of growth protein 4
+H3	q9upn9	E3 ubiquitin-protein ligase TRIM33
+H3	q9upp1	Histone lysine demethylase PHF8
+H3	q9vg78	Protein partner of snf, isoform A
+H3	q9y294	Histone chaperone ASF1A
+H3	q9y3e1	Hepatoma-derived growth factor-related protein 3
+H3	q9y3y4	Pygopus homolog 1
+H3	q9y483	Metal-response element-binding transcription factor 2
+H3	q9y5b9	FACT complex subunit SPT16
+H3	q9y657	Spindlin-1
+H3	q9y6k1	DNA (cytosine-5)-methyltransferase 3A
+H3	q9z1b8	PHD finger protein 1
+H4		1A9D7 L chain
+H4		1A9D7 VH CH1 chain
+H4		2A7D9 L chain
+H4		2A7D9 VH CH1 chain
+H4	c4qz45	Transcription elongation factor 1 homolog
+H4	f8w4b7	Histone deacetylase
+H4	g0s589	Actin related protein 5
+H4	o14686	Histone-lysine N-methyltransferase 2D
+H4	o14744	Protein arginine N-methyltransferase 5
+H4	o15164	Transcription intermediary factor 1-alpha
+H4	o60885	Bromodomain-containing protein 4
+H4	o75164	Lysine-specific demethylase 4A
+H4	o75530	Polycomb protein EED
+H4	p21675	Transcription initiation factor TFIID subunit 1
+H4	p49736	DNA replication licensing factor MCM2
+H4	p55201	Peregrin
+H4	q03188	Centromere protein C
+H4	q12888	TP53-binding protein 1
+H4	q16576	Histone-binding protein RBBP7
+H4	q1hvj0	Major tegument protein
+H4	q582g4	Protein arginine N-methyltransferase 7
+H4	q6pl18	ATPase family AAA domain-containing protein 2
+H4	q86uy6	N-alpha-acetyltransferase 40
+H4	q8ik82	Bromodomain protein, putative
+H4	q8ncd3	Holliday junction recognition protein
+H4	q8nez4	Histone-lysine N-methyltransferase 2C
+H4	q92784	Zinc finger protein DPF3
+H4	q92793	CREB-binding protein
+H4	q96h22	Centromere protein N
+H4	q96ha7	Tonsoku-like protein
+H4	q9h8m2	Bromodomain-containing protein 9
+H4	q9nqr1	N-lysine methyltransferase KMT5A
+H4	q9ntg7	NAD-dependent protein deacetylase sirtuin-3, mitochondrial
+H4	q9nvp2	Histone chaperone ASF1B
+H4	q9nxa8	NAD-dependent protein deacylase sirtuin-5, mitochondrial
+H4	q9uer7	Death domain-associated protein 6
+H4	q9y294	Histone chaperone ASF1A
+H4	q9y468	Lethal(3)malignant brain tumor-like protein 1
+H4	q9y5b9	FACT complex subunit SPT16
+H4	q9y5n5	Methyltransferase N6AMT1
+H4	q9y657	Spindlin-1
